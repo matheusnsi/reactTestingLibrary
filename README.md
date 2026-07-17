@@ -1,15 +1,35 @@
-# Requisitos
-## Instalar as dependências
-`npm install` ou `yarn install`
+# 🧪 React Testing Library
 
-## Para executar os testes
-`npm run test` ou `yarn test`
+Estudo de **testes automatizados** em React com a **React Testing Library**, testando componentes do ponto de vista do usuário. Exercício focado em testar o componente `PostComments` (renderização, interações e comportamento esperado).
 
-## Para executar a aplicação em localhost
-`npm start` ou `yarn start`
+## 🛠️ Tecnologias
 
-# Para o exercício
-O arquivo onde o teste deve ser escrito está em src/components/PostComments/PostComments.test.tsx
+- **React** + **TypeScript**
+- **React Testing Library**
+- **Jest**
 
-## Resolução
-Neste repositório existe uma branch chamada **resolucao** com o exercício resolvido, é importante que a utilize como consulta caso tenha dificuldades ou até mesmo para comparar com a abordagem que você adotou, **não faça simplesmente um copiar/colar** - confio em você ;)
+## 🚀 Como rodar
+
+Instalar dependências:
+
+```bash
+npm install
+```
+
+Executar os testes:
+
+```bash
+npm run test
+```
+
+Executar a aplicação:
+
+```bash
+npm start
+```
+
+O teste principal fica em `src/components/PostComments/PostComments.test.tsx`. A branch `resolucao` contém uma versão de referência do exercício resolvido.
+
+---
+
+Desenvolvido por **Matheus Nascimento Silveira** · [LinkedIn](https://linkedin.com/in/matheusnsi) · [GitHub](https://github.com/matheusnsi)
